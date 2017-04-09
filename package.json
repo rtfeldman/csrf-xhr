@@ -1,0 +1,25 @@
+{
+  "name": "csrf-xhr",
+  "version": "0.0.1",
+  "description": "Automatically add Rails CSRF tokens into XMLHttpRequest headers.",
+  "main": "csrf-xhr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtfeldman/csrf-xhr.git"
+  },
+  "keywords": [
+    "xhr",
+    "http",
+    "csrf",
+    "rails"
+  ],
+  "author": "Richard Feldman",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rtfeldman/csrf-xhr/issues"
+  },
+  "homepage": "https://github.com/rtfeldman/csrf-xhr#readme"
+}
