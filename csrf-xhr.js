@@ -27,7 +27,7 @@
     // Patch XMLHttpRequest
     var originalOpen = xhr.open;
 
-    xhr.open = function(method, url, async) {
+    xhr.open = function(method, url) {
         // If we're on http://example.com and the URL starts with
         // http://example.com then we're sending to a local origin.
         // Also if we're sending to a relative URL, that's also a local origin.
