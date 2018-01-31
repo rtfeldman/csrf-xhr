@@ -1,6 +1,6 @@
 {
   "name": "csrf-xhr",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Automatically add Rails CSRF tokens into XMLHttpRequest headers.",
   "main": "csrf-xhr.js",
   "scripts": {
